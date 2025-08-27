@@ -170,11 +170,26 @@ I'm always excited to collaborate on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadelalfy&show_icons=true&theme=radical)
+### **Profile Overview**
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadelalfy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadelalfy&layout=compact&theme=radical)
+### **Top Languages & Technologies**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadelalfy&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=muhammadelalfy)
+
+### **Contribution Graph**
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadelalfy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+### **Repository Insights**
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=muhammadelalfy&repo=e-commerce-multi-vendor&theme=radical&hide_border=true)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=muhammadelalfy&repo=pos-development&theme=radical&hide_border=true)
+
+### **Activity Metrics**
+- **Total Repositories**: 14+
+- **Languages Used**: PHP, Laravel, Blade, HTML, JavaScript
+- **Contributions**: Active development across multiple projects
+- **Focus Areas**: Backend Development, E-commerce, Business Applications
 
 ---
 
